@@ -1,0 +1,15 @@
+main_namespace:
+  sub_namespace:
+    ros__parameters:
+      bool_var: true
+      double_var: 8.0
+      string_list: ["First", "Second", "Third"]
+      First:
+        string_var: "one"
+        int_var: 1
+      Second:
+        string_var: "two"
+        int_var: 2
+      Third:
+        string_var: "three"
+        int_var: 3
